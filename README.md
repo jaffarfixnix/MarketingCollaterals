@@ -13,10 +13,5 @@ Prerequisites
 
 Access & Authority
 
-Give examples
-Installing
-
-A step by step series of examples that tell you have to get a development env running
-
  - Jaffar.
  Product Head - Mobile Application & Design
